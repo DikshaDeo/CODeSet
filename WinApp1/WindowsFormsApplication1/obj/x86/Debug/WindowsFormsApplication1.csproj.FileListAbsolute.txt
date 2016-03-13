@@ -1,0 +1,35 @@
+D:\Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Excel\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Excel\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Excel\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Excel\InsertChart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Excel\InsertChart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Excel\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Excel\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Excel\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Excel\InsertChart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\bin\Debug\NetOffice.dll
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\bin\Debug\OfficeApi.dll
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\bin\Debug\VBIDEApi.dll
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\bin\Debug\NetOffice.xml
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\bin\Debug\OfficeApi.xml
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\bin\Debug\VBIDEApi.xml
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\New folder (7)\InsertChart\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\New folder (7)\WinApp1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\New folder (7)\WinApp1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\New folder (7)\WinApp1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

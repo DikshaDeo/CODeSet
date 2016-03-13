@@ -1,0 +1,4 @@
+D:\Excel\InsertChart\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Excel\InsertChart\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Excel\InsertChart\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Excel\InsertChart\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
